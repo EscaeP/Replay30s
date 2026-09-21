@@ -6,9 +6,7 @@
 
 ## 安装
 
-测试安装包在：
-
-`app/build/outputs/apk/debug/app-debug.apk`
+APK 发布在 [Release 页面](../../releases)。下载最新版本的 APK。
 
 将 APK 传到手机后打开。按系统提示允许安装。
 
@@ -75,6 +73,6 @@
 .\gradlew.bat assembleDebug
 ```
 
-生成的 APK 位于：
+本地调试构建生成的 APK 位于：
 
 `app/build/outputs/apk/debug/app-debug.apk`
